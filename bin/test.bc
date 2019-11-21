@@ -1,0 +1,17 @@
+
+
+scale=20;
+
+s=0;
+
+print "\nBegin\n"
+
+for ( i=0; i<=10; i++ ) {
+    s=s+i;
+    print "i=", i, "    s=", s, "\n"
+}
+
+
+print "\nEnd\n"
+
+quit
